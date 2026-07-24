@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tarunww/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tarunww/leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/tarunww/leetcode/tree/master/0035-search-insert-position) |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tarunww/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -16,4 +17,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/tarunww/leetcode/tree/master/0035-search-insert-position) |
+## Math
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tarunww/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tarunww/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3514-number-of-unique-xor-triplets-ii](https://github.com/tarunww/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 <!---LeetCode Topics End-->
